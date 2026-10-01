@@ -1,12 +1,15 @@
+<p align="center">
+  <img src="assets/images/opendots.png" alt="AXT OpenDots" width="900">
+</p>
+
+<p align="center">
+  <img src="assets/open-dots-demo-poster.png" alt="Open Dots" width="720">
+</p>
+
 # Open Dots: Open-Source Personal AI Agent Workspace
 
 
-<p align="center">
-  <video src="https://github.com/Anil-matcha/open-dots/raw/main/assets/open-dots-demo.mp4" poster="assets/open-dots-demo-poster.png" controls muted width="800"></video>
-</p>
 
-<p align="center"><a href="https://youtu.be/b4ZTfs0KwR0"><img src="https://i.ytimg.com/vi/b4ZTfs0KwR0/maxresdefault.jpg" width="720"></a></p>
-<p align="center"><a href="https://youtu.be/b4ZTfs0KwR0"><b>▶ Watch: OpenAI Dots Alternative: Free, Open Source & Any Model </b></a></p>
 
 **Open Dots is an open-source, self-hosted personal AI agent workspace** for chat, tool use, approvals, connectors, and computer tasks. It brings model conversations, a governed action gateway, approval prompts, and an optional browser runtime into one local-first app. It can be evaluated by people searching for open-source alternatives to OpenAI Dots, Meta Muse, Grok Bot, Instinct, Manus Cue, Claude Cowork, or ChatGPT agent; it is an early prototype, not a feature-equivalent replacement for those products.
 
